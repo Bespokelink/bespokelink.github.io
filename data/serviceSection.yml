@@ -1,0 +1,45 @@
+---
+enable: true
+topTitle: Our Expertise
+title: >
+  ## Innovative Services
+
+  We deploy.manage Unified Communications solutions with
+  20 Years of exprience.
+service:
+  - content: >
+      #### Microsoft Teams Phone Systems 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Cloud PBX 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/web.svg
+  - content: >
+      #### 3CX Phone Systems 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/creative.svg
+  - content: >
+      #### Session Border Controller (SBC)
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/branding.svg
+  - content: >
+      #### Private & Public SIP Trunking
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/ui-ux.svg
+  #- content: >
+      #### Private & Public SIP Trunking
+
+   #   Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+   #  tempor invidunt ut labore et dolore magna aliquyam erat.
+   # image: images/service/web.svg
