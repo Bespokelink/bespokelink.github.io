@@ -1,4 +1,4 @@
-baseURL = "http://bespokelink.github.io/bespokelinkae.github.io/"
+baseURL = "http://bespokelink.github.io/"
 languageCode = "en-us"
 paginate = 6
 
