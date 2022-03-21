@@ -62,15 +62,15 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Bespokelink 2022"
 footerLogo = "images/contact/BL-Logo-Color.png"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+formspreeURL = "https://formspree.io/f/mgedzdqp"
+googleAnalytics = "G-5539HT18TF"
 logo = "images/site-navigation/BL-Logo-Color.png"
 
 [params.address]
 address = "Masdar City, Abu-Dhabi, UAE."
 email = "admin@bespokelink.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(971-50) 2065058"
+phone = "+971-50-2068058"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
