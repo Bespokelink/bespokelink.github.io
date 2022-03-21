@@ -179,8 +179,9 @@
         </div>
       </div>
       <div class="col-lg-6">
-        {{ $map := .Site.Params.map }}
-        <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14530.004208152697!2d54.6184819!3d24.4333957!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x999076568b14d5d1!2sIncubator%20Building!5e0!3m2!1sen!2sau!4v1647858865684!5m2!1sen!2sau" width="530" height="335" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <!--   {{ $map := .Site.Params.map }}
+        <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}> -->
         </div>
       </div>
     </div>
