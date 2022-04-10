@@ -10,33 +10,33 @@ service:
   - content: >
       #### Microsoft Teams Phone Systems 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Cloud PBX 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+      Microsoft Teams Phone System uses Direct Routing to connect a hosted Session Border Controller (SBC) to Phone System. 
+      With this capability, you can configure on-premises Public Switched Telephone Network (PSTN) connectivity with Microsoft Teams client.
+    image: images/service/Microsoft_Teams_256x256.png
+#  - content: >
+#      #### Cloud PBX 
+#
+#      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+#      tempor invidunt ut labore et dolore magna aliquyam erat.
+#    image: images/service/web.svg
   - content: >
       #### 3CX Phone Systems 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+      3CX is a Software based IP PBX suitable for Small, Medium and Large Enterprises. 3CX is packed with advanced Unified Communications features that help users increase their productivity and mobility. 
+      Integrated softphone for Windows, Web client as well as smartphone apps for iOS and Android offer users all the features they need to carry out their work efficiently. 
+    image: images/service/3CX-Logo.png
   - content: >
-      #### Session Border Controller (SBC)
+      #### Bespoke Telephony
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### Private & Public SIP Trunking
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      A high performance, cost effective and tailored Cloud PBX designed to handle and dispatch unlimited SIP transactions
+      Includes Phone numbers, Fax Services, Voicemail, Call recording, Conferencing, ISDN gateways, and much more 
     image: images/service/ui-ux.svg
+#  - content: >
+#      #### Private & Public SIP Trunking
+#
+#      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+#      tempor invidunt ut labore et dolore magna aliquyam erat.
+#    image: images/service/ui-ux.svg
   #- content: >
       #### Private & Public SIP Trunking
 
